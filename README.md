@@ -1,5 +1,5 @@
 # WireGuard-TunSafe
-## TunSafe安装
+## Mac OS系统下TunSafe的安装步骤
 ### 步骤
    1. fan'qiang后，登陆https://tunsafe.com/download
    2. 打开go to User Guide（Mac OS X, Linux or FreeBSD）链接.  
