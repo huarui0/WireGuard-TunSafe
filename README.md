@@ -17,5 +17,5 @@
          4. Run TunSafe
          - To use TunSafe you need a WireGuard configuration file from a VPN provider. You can also use the free TunSafe VPN servers. Assuming it's named TunSafe.conf, do the following to start TunSafe:（注：这个文件由爸爸传给你，也可以网上生成。）
             >$ sudo tunsafe start -d TunSafe.conf（注：这个文件由爸爸传给你。如何得到，后续揭秘）:eye_speech_bubble:
-         - If everything went well, TunSafe daemonizes and continues running in the background. To instead run in the foreground, omit the ***-d*** flag.
+         - If everything went well, TunSafe daemonizes and continues running in the background. To instead run in the foreground, omit the `***-d***` flag.
          
