@@ -21,8 +21,9 @@ WhatIsMyIP.com® is the industry leader in providing REAL IP address information
       + 1. 需要先注册开发人员账号，（官网首页必须以开发人员身份注册账号）
       + 2. 账号必须要美国ip（需要使用美国的IP地址），并且是全局代理模式  **重点**
       + 3. 填写账号地址信息与ip保持一致（邮编所在城市必须和ip对应城市一致）**重点**
-      + 4. 不要使用国内邮箱注册，最好使用Google邮箱或以下两个临时邮箱：[https://tempail.com](https://tempail.com), [https://tempmailo.com/](https://tempmailo.com/)<br>
+      + 4. 不要使用国内邮箱注册，最好使用Google邮箱或以下几个临时邮箱：[https://tempail.com](https://tempail.com), [https://tempmailo.com/](https://tempmailo.com/), [https://www.moakt.com/zh/mail](https://www.moakt.com/zh/mail)<br>
       + 5. 通过邮箱收到注册链接进入可能会直接跳转到首页，是由于网站问题，打开该链接即可：[https://my.freenom.com/cart.php?a=view](https://my.freenom.com/cart.php?a=view)<br>
+      + 6. 虚拟信息生成地址：[https://www.dizhishengcheng.com/](https://www.dizhishengcheng.com/)<br>
 ## 收费域名
 
 <details>
