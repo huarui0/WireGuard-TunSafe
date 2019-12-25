@@ -1,5 +1,8 @@
 # VPS(Virtural Primate Server)的申请
 ## Google云申请与搭建
+   * 网址
+   * 参考
+      + [免费翻墙 | 最新谷歌云申请教程+Gmail申请](https://www.youtube.com/watch?v=RxbGtkRVUWQ) - 参考申请部分<br>
 ## 其他 
 # 域名申请
 ## 免费域名
