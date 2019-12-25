@@ -10,6 +10,7 @@
    * 参考
       + [2019最新免费顶级域名注册教程第二期，域名永久免费使用(freenom)，突破账号无法注册问题](https://www.youtube.com/watch?v=VxfyjmaKby4) - 可以解决无法注册问题！<br>
       + [2019最新免费顶级域名注册教程第一期，域名永久免费使用(freenom)](https://www.youtube.com/watch?v=bDcNZCXv04g) - 先看第二期，再看第一期！<br>
+      + [freenom免费域名注册教程注意事项，百分百注册成功,免费域名注册终极教程，一次获取五个免费域名为安装v2ray三件套做好准备](https://www.youtube.com/watch?v=oV4QCzRNmOo)<br>
    * 步骤
       + 1. 设置IP为美国IP
          - 方法
