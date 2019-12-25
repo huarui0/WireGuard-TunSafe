@@ -13,11 +13,13 @@
       + [freenom免费域名注册教程注意事项，百分百注册成功,免费域名注册终极教程，一次获取五个免费域名为安装v2ray三件套做好准备](https://www.youtube.com/watch?v=oV4QCzRNmOo)<br>
    * 步骤
       + 1. 设置IP为美国IP
-         - 方法
+         - 查询IP所属区域的方法
             + [WhatIsMyIP.com®](https://www.whatismyip.com/)<br>
                >What Is My IP?
 WhatIsMyIP.com® is the industry leader in providing REAL IP address information. We provide IP address tools that allow users to perform an Internet Speed Test, IP address lookup, proxy detection, IP Whois Lookup, and more. We have extensive tutorials that show users how to trace an email address, how to change IP addresses, and how to hide their IP information. Knowing your IP address is crucial for online gaming, tech support, using remote desktop connections, connecting to a security camera DVR, anonymity or even running an email server. If you’ve got questions about IP addresses and can’t find the answer on our site, feel free to post your question in our IP Address Q & A section.
-      + 1. 点开菜单 *Partners* --> *<span style="border-bottom:2px dashed yellow;">Developers</span>*，进入开发人员注册页面。
+            + [My IP](https://whoer.net/)<br>
+               >WHOER.NET — is a service aimed at verifying the information your computer sends to the web.
+      + 2. 点开菜单 *Partners* --> *<span style="border-bottom:2px dashed yellow;">Developers</span>*，进入开发人员注册页面。
    * 注意事项
       + 1. 需要先注册开发人员账号，（官网首页必须以开发人员身份注册账号）
       + 2. 账号必须要美国ip（需要使用美国的IP地址），并且是全局代理模式  **重点**
