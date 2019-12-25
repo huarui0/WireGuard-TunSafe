@@ -13,7 +13,9 @@
    * 步骤
       + 1. 设置IP为美国IP
          - 方法
-            + dd
+            + [WhatIsMyIP.com®](https://www.whatismyip.com/)<br>
+               >What Is My IP?
+WhatIsMyIP.com® is the industry leader in providing REAL IP address information. We provide IP address tools that allow users to perform an Internet Speed Test, IP address lookup, proxy detection, IP Whois Lookup, and more. We have extensive tutorials that show users how to trace an email address, how to change IP addresses, and how to hide their IP information. Knowing your IP address is crucial for online gaming, tech support, using remote desktop connections, connecting to a security camera DVR, anonymity or even running an email server. If you’ve got questions about IP addresses and can’t find the answer on our site, feel free to post your question in our IP Address Q & A section.
       + 1. 点开菜单 *Partners* --> *<span style="border-bottom:2px dashed yellow;">Developers</span>*，进入开发人员注册页面。
    * 注意事项
       + 1. 需要先注册开发人员账号，（官网首页必须以开发人员身份注册账号）
