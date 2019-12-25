@@ -11,6 +11,9 @@
       + [2019最新免费顶级域名注册教程第二期，域名永久免费使用(freenom)，突破账号无法注册问题](https://www.youtube.com/watch?v=VxfyjmaKby4) - 可以解决无法注册问题！<br>
       + [2019最新免费顶级域名注册教程第一期，域名永久免费使用(freenom)](https://www.youtube.com/watch?v=bDcNZCXv04g) - 先看第二期，再看第一期！<br>
    * 步骤
+      + 1. 设置IP为美国IP
+         - 方法
+            + dd
       + 1. 点开菜单 *Partners* --> *<span style="border-bottom:2px dashed yellow;">Developers</span>*，进入开发人员注册页面。
    * 注意事项
       + 1. 需要先注册开发人员账号，（官网首页必须以开发人员身份注册账号）
