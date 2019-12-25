@@ -9,7 +9,7 @@
       + [Freenom - 中文](https://www.freenom.com/zh/index.html)<br>
    * 参考
       + [2019最新免费顶级域名注册教程第二期，域名永久免费使用(freenom)，突破账号无法注册问题](https://www.youtube.com/watch?v=VxfyjmaKby4) - 可以解决无法注册问题！<br>
-      + [2019最新免费顶级域名注册教程第一期，域名永久免费使用(freenom)](https://www.youtube.com/watch?v=bDcNZCXv04g)<br>
+      + [2019最新免费顶级域名注册教程第一期，域名永久免费使用(freenom)](https://www.youtube.com/watch?v=bDcNZCXv04g) - 先看第二期，再看第一期！<br>
    * 步骤
       + 
    * 注意事项
