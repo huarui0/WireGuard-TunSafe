@@ -19,6 +19,7 @@
 WhatIsMyIP.com® is the industry leader in providing REAL IP address information. We provide IP address tools that allow users to perform an Internet Speed Test, IP address lookup, proxy detection, IP Whois Lookup, and more. We have extensive tutorials that show users how to trace an email address, how to change IP addresses, and how to hide their IP information. Knowing your IP address is crucial for online gaming, tech support, using remote desktop connections, connecting to a security camera DVR, anonymity or even running an email server. If you’ve got questions about IP addresses and can’t find the answer on our site, feel free to post your question in our IP Address Q & A section.
             + [My IP](https://whoer.net/)<br>
                >WHOER.NET — is a service aimed at verifying the information your computer sends to the web.
+            + [WhatISMyIPAddress](https://whatismyipaddress.com/)
       + 2. 点开菜单 *Partners* --> *<span style="border-bottom:2px dashed yellow;">Developers</span>*，进入开发人员注册页面。
    * 注意事项
       + 1. 需要先注册开发人员账号，（官网首页必须以开发人员身份注册账号）
@@ -28,7 +29,10 @@ WhatIsMyIP.com® is the industry leader in providing REAL IP address information
       + 5. 通过邮箱收到注册链接进入可能会直接跳转到首页，是由于网站问题，打开该链接即可：[https://my.freenom.com/cart.php?a=view](https://my.freenom.com/cart.php?a=view)<br>
       + 6. 虚拟信息生成地址：[https://www.dizhishengcheng.com/](https://www.dizhishengcheng.com/)<br>
 ## 收费域名
-
+### https://ap.www.namecheap.com/
+   * 网址：
+   * 参考
+      + [正确的科学上网：V2ray+WS+TLS+DNSSEC，添加HTTPS域名证书，防止域名污染，官方脚本，手动配置安全无后门！](https://www.youtube.com/watch?v=FXWGOxjiFVM) - 同时V2Ray的安装方法<br>
 <details>
     <summary><b>示例：Hello World 程序</b></summary> 
 
