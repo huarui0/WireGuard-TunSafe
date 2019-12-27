@@ -2,6 +2,7 @@
 ## Google云申请与搭建
    * 网址
    * 参考
+      + [最简单谷歌云保姆级新手教程｜300美金申请 SS节点搭建 SS节点使用 路由器扶墙｜翻墙教程｜谷歌云｜Google Cloud](https://www.youtube.com/watch?v=AQh0yUnYs0g)<br>
       + [免费翻墙 | 最新谷歌云申请教程+Gmail申请+PuTTY和Xshell登录谷歌云+BBRPlus/SSR搭建，4K视频秒开](https://www.youtube.com/watch?v=RxbGtkRVUWQ) - 参考申请部分<br>
 ## Amazon云申请与搭建
    * 网址
