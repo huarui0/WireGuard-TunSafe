@@ -8,6 +8,10 @@
       + [Amazon Lightsail - 中文](https://aws.amazon.com/cn/lightsail/) - Lightsail 是一个易于使用的云平台，为您提供构建应用程序或网站所需的一切，并提供经济高效的每月计划。无论您是初次使用云还是希望使用您信赖的 AWS 基础设施快速开始使用云，我们都能满足您的需求。<br>
    * 参考
       + [无惧GFW防火墙升级封锁！最新一键搭建翻墙服务器方法！秒开4K油管无压力！比SSR/V2Ray更简单快捷的Trojan自建教程，附苹果iOS，安卓Android，PC客户端设置方法。](https://www.youtube.com/watch?v=shF8bMUvvpw) - 参考 AWS Lightsail 的搭建过程<br>
+# 美国虚拟免费电话的申请
+   * 网址
+      + [TextNow](https://www.textnow.com/) - Phone service for everyone<br>
+      
 # 域名申请
 ## 免费域名
 ### Freenom - A Name for Everyone
