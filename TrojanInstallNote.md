@@ -45,6 +45,9 @@ WhatIsMyIP.com® is the industry leader in providing REAL IP address information
    * 网址：
    * 参考
       + [正确的科学上网：V2ray+WS+TLS+DNSSEC，添加HTTPS域名证书，防止域名污染，官方脚本，手动配置安全无后门！](https://www.youtube.com/watch?v=FXWGOxjiFVM) - 同时V2Ray的安装方法<br>
+# CDN中转的设置
+## Cloudflare的申请和设置
+   *
 
 # Trojan安装
    * 参考
